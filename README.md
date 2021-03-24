@@ -5,8 +5,11 @@
 
 
 ### About me
-I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
+My name is Lucas, student of Information Systems at FIAP University. I am versatile and I can adapt to any environment and required service demand. Currently I work in the area of servers with a focus on Java programming, with knowledge in Database, object-oriented programming and web programming.
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+### Alguns dados
+🔭   7 years of experience with OOP
+📝   4 years of DB experience
+💬   Classified with good service and agility in support
+📚   Works in corporations with different parties directly and indirectly with consultancy
+🌱   Free project with more than 3 thousand downloads
