@@ -15,6 +15,7 @@ My name is Lucas, student of Information Systems at FIAP University. I am versat
 - 💬   Classified with good service and agility in support
 - 📚   Works in corporations with different parties directly and indirectly with consultancy
 - 🌱   Free project with more than 3 thousand downloads
+- <a href="https://github.com/DuckyUser/Projects"> Don't click here, please .. nooo!</a>
 <br> <br>
 
 
