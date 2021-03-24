@@ -15,31 +15,18 @@ My name is Lucas, student of Information Systems at FIAP University. I am versat
 - 💬   Classified with good service and agility in support
 - 📚   Works in corporations with different parties directly and indirectly with consultancy
 - 🌱   Free project with more than 3 thousand downloads
+<br> <br>
 
-### 📡 Languages and Tools:
-
-<p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-  <img alt="Database" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-
-</p>
-
-<br>
-
-### 💻 Setup:
-
-<p align="center">
-  Visit my steam to view
-  <br>
-  <a href="https://steamcommunity.com/id/eman134" target="_blank">
-    <img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
-  </a>
-</p>
-
-<br>
-
-
+### 📊 Github Stats
+<a href='https://github.com/Eman134/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/duckyuser/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/duckyuser/github-stats-transparent/output/generated/languages.svg)
+ </a>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEman134%2F&count_bg=%235A219A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+ 
+ <br><br>
 ### 📱 Contact Me:
 
 <p align="center">
@@ -66,14 +53,5 @@ My name is Lucas, student of Information Systems at FIAP University. I am versat
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/Eman134/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/eman134/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/eman134/github-stats-transparent/output/generated/languages.svg)
- </a>
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEman134%2F&count_bg=%235A219A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
- 
  Thx [rahul-jha98](https://github.com/rahul-jha98), [PrincessAkira](https://github.com/PrincessAkira) & [Ileriayo](https://github.com/Ileriayo/markdown-badges).
  
