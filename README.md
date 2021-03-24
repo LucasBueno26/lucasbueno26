@@ -3,11 +3,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DuckyUser)](https://github.com/fagnerpsantos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bueno-b48550207/)](https://www.linkedin.com/in/fagnerpsantos/)
 
-<img align="right" src="https://github.com/Eman134/Eman134/blob/main/assets/JsImg.svg" width="360px"/>
 
 ### About me
 My name is Lucas, student of Information Systems at FIAP University. I am versatile and I can adapt to any environment and required service demand. Currently I work in the area of servers with a focus on Java programming, with knowledge in Database, object-oriented programming and web programming.
-
+<br>
+<img align="right" src="https://github.com/Eman134/Eman134/blob/main/assets/JsImg.svg" width="360px"/>
 ### Alguns dados
 - 🔭   7 years of experience with OOP
 - 📝   4 years of DB experience
