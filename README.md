@@ -7,7 +7,7 @@
 ### About me
 My name is Lucas, student of Information Systems at FIAP University. I am versatile and I can adapt to any environment and required service demand. Currently I work in the area of servers with a focus on Java programming, with knowledge in Database, object-oriented programming and web programming.
 <br>
-<img align="right" src="https://github.com/Eman134/Eman134/blob/main/assets/JsImg.svg" width="360px"/>
+<img align="right" src="https://github.com/DuckyUser/DuckyUser/blob/main/21.png" width="360px"/>
 
 ### Some data
 - 🔭   7 years of experience with OOP
