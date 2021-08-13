@@ -1,7 +1,7 @@
 # Hi, I'm Lucas! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DuckyUser)](https://github.com/fagnerpsantos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bueno-b48550207/)](https://www.linkedin.com/in/fagnerpsantos/)
+
 
 
 ### About me
