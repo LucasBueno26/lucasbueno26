@@ -1,7 +1,7 @@
 # Hi, I'm Lucas! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DuckyUser)](https://github.com/fagnerpsantos)
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DuckyUser)](https://github.com/DuckyUser)
+[![Github Badge](https://img.shields.io/badge/-Spotify-81b71?style=flat-square&logo=Spotify&logoColor=white&link=https://github.com/DuckyUser)](https://github.com/DuckyUser)
 
 
 ### About me
