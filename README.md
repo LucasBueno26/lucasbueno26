@@ -14,7 +14,7 @@ My name is Lucas, student of Information Systems at FIAP University. I am versat
 - 📝   4 years of DB experience
 - 💬   Classified with good service and agility in support
 - 📚   Works in corporations with different parties directly and indirectly with consultancy
-- 🌱   <a href="https://www.spigotmc.org/resources/lblogin-system-login-register.50751/" target="_blank"> Free Project </a> with more than 18 thousand (18000) downloads
+- 🌱   <a href="https://www.spigotmc.org/resources/lblogin-system-login-register.50751/" target="_blank"> Free Project </a> with more than 50 thousand (50k) downloads
 
 
 
